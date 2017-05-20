@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hankcs60\Dropbox\05 IDI\04 App Oficial\MyCoinDatabase\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\hankcs60\Dropbox\05 IDI\04 App Oficial\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_63ec8c9177d2343a15cd0c7a0c4ffef79e8aa425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hankcs60\Dropbox\05 IDI\04 App Oficial\MyCoinDatabase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac2af04301b826c8da37cb06a1d10088278fdcf0">
+        <dex dex="C:\Users\hankcs60\Dropbox\05 IDI\04 App Oficial\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e85955d3542de39a609472143d07feceeebf082e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hankcs60\.android\build-cache\e143c605f451cf679ea24bde6c07f8736ecd65cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\hankcs60\Dropbox\05 IDI\04 App Oficial\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1e1bb041b5b80fe25dae7223ec9d3c90017ebd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hankcs60\.android\build-cache\0257bea075b76771883abcde2efe77277b2e3296\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\hankcs60\Dropbox\05 IDI\04 App Oficial\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_460e161653d6dd6af849f3b8f8d77e218c409598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hankcs60\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\hankcs60\Dropbox\05 IDI\04 App Oficial\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_ed8965ece37d4e61841660fc5fbf6840e8c7ccb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hankcs60\.android\build-cache\0257bea075b76771883abcde2efe77277b2e3296\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\hankcs60\Dropbox\05 IDI\04 App Oficial\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_015430290e8d6159b3396dcd5ce800210f518eb0\classes.dex" />
+    </item>
+
+</items>
